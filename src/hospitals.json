@@ -1,0 +1,27 @@
+[
+    {
+        "name": "The Aga Khan Hosp.",
+        "Location": "Nairobi",
+        "rating" : 4.5
+    },
+    {
+        "name": "The Nairobi West Hosp..",
+        "Location": "Nairobi",
+        "rating" : 4.5
+    },
+    {
+        "name": "The Nairobi Womens Hosp.",
+        "Location": "Nairobi",
+        "rating" : 4.5
+    },
+    {
+        "name": "Getrude Childrens Hosp.",
+        "Location": "Nairobi",
+        "rating" : 4.5
+    },
+    {
+        "name": "Kenyatta National Hosp.",
+        "Location": "Nairobi",
+        "rating" : 4.5
+    }
+]
